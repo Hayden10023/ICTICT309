@@ -1,0 +1,20 @@
+Participants:
+
+Join a meeting.
+Desktop:
+1.	Click the invite link provided by the host and follow the on-screen instructions.
+2.	Alternatively, open the Zoom desktop client.
+3.	Click the Home tab. 
+4.	Click the Join icon. 
+5.	Enter the meeting ID provided by the meeting host.
+6.	If prompted, enter the meeting passcode.
+7.	Click Join.
+Mobile:
+1.	Tap the invite link provided by the host and follow the on-screen instructions.
+2.	Alternatively, open the Zoom mobile app. 
+3.	Tap the Meetings tab.
+4.	Tap the Join icon. 
+5.	Enter the meeting ID provided by the meeting host.
+6.	If prompted, enter the meeting passcode.
+Connect to audio.
+Desktop:
