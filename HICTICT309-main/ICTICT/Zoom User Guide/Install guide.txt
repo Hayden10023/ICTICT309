@@ -1,0 +1,27 @@
+1.	In your internet browser, enter https://zoom.us/.
+2.	At the top-right of the page, click RESOURCES then click Download Zoom Client.
+3.	Under Zoom Client for Meetings, click the Download button.
+Double-click the Zoom installer to begin the desktop client install.
+4.	Complete the installation process.
+5.	Double-click the Zoom desktop icon to begin using Zoom. ( desktop)
+
+To download the Zoom mobile app for iOS:
+1.	Tap the App Store icon.
+2.	At the bottom right of your screen, tap Search and enter “Zoom” in the search box.
+3.	Tap Zoom - One Platform to Connect.
+4.	Tap GET.
+5.	Once downloading is complete, tap the Zoom mobile app icon on your home screen.
+
+To download the Zoom mobile app for Android:
+1.	Tap the Google Play icon.
+2.	At the top right of the screen, tap Search and enter “Zoom” in the search box.
+3.	Tap Zoom - One Platform to Connect.
+4.	Tap the Install button and tap Accept
+5.	Once downloading is complete, tap the Zoom mobile app icon on your home screen.
+
+
+
+
+
+
+
